@@ -2,6 +2,8 @@
 
 **MarketMoodRadar** is an interactive Streamlit tool that analyzes social media sentiment and correlates it with stock price data. Developed for an AP Research class, this project extracts comments from HTML, CSV, or JSON files, identifies stock tickers (with custom filtering to ignore common words), and retrieves trading data via yfinance. Visualizations include scatter plots with quadrant overlays, bar charts, histograms, and bubble charts—all with real-time progress feedback and CSV export.
 
+👉 **Live Demo:** [tommy-marketmood.streamlit.app/](https://tommy-marketmood.streamlit.app/)
+
 ## Features 🚀
 
 - **Multi-format Input:**  
