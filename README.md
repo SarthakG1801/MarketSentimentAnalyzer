@@ -58,7 +58,7 @@ MarketPulse/
 
 ⚙️ Installation
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/MarketPulse.git
+git clone https://github.com/SarthakG1801/MarketPulse.git
 cd MarketPulse
 
 2️⃣ Create a Virtual Environment
